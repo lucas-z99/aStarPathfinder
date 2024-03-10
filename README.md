@@ -1,5 +1,12 @@
 # A* Pathfinder
 
-A utility class for a old 2D game project
+See Pathfinder.cs for the algorithm part
 
-(will replace with the project once I have time to make it more presentable)
+
+### Note
+
+This is from one of my old 2D game project. 
+
+Probably not very efficient since I wrote it a while ago, but hey still I'm proud of it.
+
+(maybe one day when I find time, I'll make things more presentable and upload the whole thing)

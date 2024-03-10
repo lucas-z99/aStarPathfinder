@@ -1,4 +1,4 @@
-# aStarPathfinder
+# A* Pathfinder
 
 A script for a old 2D game project
 

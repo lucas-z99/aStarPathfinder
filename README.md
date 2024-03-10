@@ -2,4 +2,4 @@
 
 A script for a old 2D game project
 
-(The project is not very runnable ATM)
+(will replace with the project once I have time to fix it)

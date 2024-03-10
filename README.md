@@ -1,6 +1,6 @@
 # A* Pathfinder
 
-See Pathfinder.cs for the algorithm part
+See Pathfinder.cs for the algorithm
 
 
 ### Note

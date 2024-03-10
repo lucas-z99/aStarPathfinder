@@ -1,5 +1,5 @@
 # A* Pathfinder
 
-A script for a old 2D game project
+A utility class for a old 2D game project
 
-(will replace with the project once I have time make it more presentable)
+(will replace with the project once I have time to make it more presentable)
